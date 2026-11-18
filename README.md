@@ -2,6 +2,8 @@
 
 [![ci](https://github.com/cmzaia/fde-agent-kit/actions/workflows/ci.yml/badge.svg)](https://github.com/cmzaia/fde-agent-kit/actions/workflows/ci.yml)
 
+**Live demo: https://fde-agent-kit.vercel.app**
+
 A reusable kit for dropping an LLM agent into a customer environment: **connectors** to pull data
 in, an **eval gate** that decides whether the agent is good enough to ship, **observability** that
 tells you what a run cost and why it did what it did, and a **human review queue** for the cases
