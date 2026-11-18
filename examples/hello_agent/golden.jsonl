@@ -1,0 +1,12 @@
+{"id": "t01", "input": {"text": "I was charged twice on my last invoice, please refund one."}, "expected": {"category": "billing", "priority": "p2"}}
+{"id": "t02", "input": {"text": "Our dashboard is down, every page returns a 500 error."}, "expected": {"category": "outage", "priority": "p1"}}
+{"id": "t03", "input": {"text": "I forgot my password and I am locked out of my account."}, "expected": {"category": "access", "priority": "p2"}}
+{"id": "t04", "input": {"text": "Can you tell me what your office hours are?"}, "expected": {"category": "other", "priority": "p3"}}
+{"id": "t05", "input": {"text": "The payment page crashes when I click pay."}, "expected": {"category": "outage", "priority": "p1"}}
+{"id": "t06", "input": {"text": "Please send me a receipt for last month."}, "expected": {"category": "billing", "priority": "p2"}}
+{"id": "t07", "input": {"text": "SSO login loops back to the sign-in screen."}, "expected": {"category": "access", "priority": "p2"}}
+{"id": "t08", "input": {"text": "We love the new report layout, thanks!"}, "expected": {"category": "other", "priority": "p3"}}
+{"id": "t09", "input": {"text": "Is the API unreachable for anyone else right now?"}, "expected": {"category": "outage", "priority": "p1"}}
+{"id": "t10", "input": {"text": "I need a refund for the annual plan."}, "expected": {"category": "billing", "priority": "p2"}}
+{"id": "t11", "input": {"text": "How do I export my data to CSV?"}, "expected": {"category": "other", "priority": "p3"}}
+{"id": "t12", "input": {"text": "Our finance team cannot log in to download the invoice."}, "expected": {"category": "access", "priority": "p2"}}
