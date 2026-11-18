@@ -4,6 +4,8 @@
 
 **Live demo: https://fde-agent-kit.vercel.app**
 
+[![fde-agent-kit demo: hello agent run with trace, and the eval report](docs/screenshots/demo.png)](https://fde-agent-kit.vercel.app)
+
 A reusable kit for dropping an LLM agent into a customer environment: **connectors** to pull data
 in, an **eval gate** that decides whether the agent is good enough to ship, **observability** that
 tells you what a run cost and why it did what it did, and a **human review queue** for the cases

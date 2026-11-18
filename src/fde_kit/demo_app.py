@@ -364,6 +364,16 @@ def render_page(state: DemoState) -> str:
 <html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>fde-agent-kit: live demo</title>
+<meta name="description" content="Connectors, an eval gate, traces with cost accounting and a human review queue for deploying LLM agents into customer environments.">
+<meta property="og:type" content="website">
+<meta property="og:title" content="fde-agent-kit: live demo">
+<meta property="og:description" content="Connectors, an eval gate, traces with cost accounting and a human review queue for deploying LLM agents into customer environments.">
+<meta property="og:url" content="https://fde-agent-kit.vercel.app">
+<meta property="og:image" content="https://raw.githubusercontent.com/cmzaia/fde-agent-kit/main/docs/screenshots/og.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://raw.githubusercontent.com/cmzaia/fde-agent-kit/main/docs/screenshots/og.png">
 <meta name="description" content="Connectors, evals, observability and human review for LLM agents in customer environments.">
 <style>{CSS}</style></head><body><div class="wrap">
 <header class="hero">
