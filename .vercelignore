@@ -1,0 +1,9 @@
+.venv
+.git
+tests
+docs
+deploy
+uv.lock
+.github
+Dockerfile
+docker-compose.yml
